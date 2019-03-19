@@ -11,6 +11,7 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("GIT Commit");
         System.out.println("GIT Branch");
+        System.out.println("GIT Conflict");
         
      
     }
