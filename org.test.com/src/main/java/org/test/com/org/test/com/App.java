@@ -12,7 +12,11 @@ public class App
         System.out.println("GIT Branch");
         System.out.println("GIT Conflict");
         
+ branch
         System.out.println("check conflict2");
      
+=======
+        System.out.println("SK test")
+  master
     }
 }
