@@ -12,6 +12,6 @@ public class App
         System.out.println("GIT Commit");
         System.out.println("GIT Branch");
         
-     
+        System.out.println("SK test");
     }
 }
